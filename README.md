@@ -39,7 +39,7 @@ Data Processing: Power Query (ETL in Power BI)
 
 Modeling: Data relationships, DAX calculations
 
-# 📂 Project Structure project/ │── AmazonPrime_Dashboard.pbix # Power BI file │── dataset/ # Amazon Prime dataset (CSV/Excel) │── screenshots/ # Dashboard images │── README.md
+📂 Project Structure project/ │── AmazonPrime_Dashboard.pbix # Power BI file │── dataset/ # Amazon Prime dataset (CSV/Excel) │── screenshots/ # Dashboard images │── README.md
 
 # 📸 Dashboard Preview
 
